@@ -1,10 +1,16 @@
+<p align="center">
+  <a href="https://github.com/aros-development-team/AROS">
+    <img src="https://raw.githubusercontent.com/aros-development-team/AROS/master/images/AROS_300x150.png" alt="AROS" width="300">
+  </a>
+</p>
+
 # cyberman
 
-AROS contributor, working primarily on system completion, stabilization and integration.
+AROS contributor, working primarily on **system completion, stabilization and integration**.
 
 My contributions usually start with a subsystem rather than an isolated bug: understand the existing implementation, compare actual and intended behaviour, identify related defect classes, and then split the resulting work into small, reviewable changes.
 
-Current areas of interest include:
+### Current areas of interest
 
 * Shell and console behaviour
 * system integration and desktop functionality
@@ -12,22 +18,7 @@ Current areas of interest include:
 * networking
 * AROS documentation and repository structure
 
-Most development work is contributed upstream to the AROS repositories.
+Most development work is contributed upstream to the
+**[AROS Research Operating System](https://github.com/aros-development-team/AROS)**.
 
-Part of **Kitty-Mushers**.
-
-
-<!--
-**cyberman/cyberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐈‍⬛ Part of **[Kitty-Mushers](https://github.com/Kitty-Mushers)**.
