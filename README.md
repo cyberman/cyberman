@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/aros-development-team/AROS">
-    <img src="https://raw.githubusercontent.com/aros-development-team/AROS/master/images/AROS_300x150.png" alt="AROS" width="300">
+    <img src="assets/AROS_300x150.png" alt="AROS" width="300">
   </a>
 </p>
 
